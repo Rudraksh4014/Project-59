@@ -1,0 +1,35 @@
+body {
+    background-color: deepskyblue;
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+.menu {
+    color: cyan;
+    font-family: impact;
+    list-style: none;
+    position: absolute;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    
+}
+
+#film {
+    height: 900px;
+    width: 700px;
+    border-radius: 50px;
+}
+
+h1 {
+    font-family: fantasy;
+}
+
+.line {
+    height: 6px;
+}
+
+#Youtube{
+    border-radius: 20px;
+}
+
